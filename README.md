@@ -1,7 +1,7 @@
 ![super-resolution-using-gan](./docs/images/main.png)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saraivaufc/super-resolution-using-gan/pix2pix.ipynb)
+[Open in Kaggle](https://www.kaggle.com/code/saraivaufc/super-resolution-using-gans-and-satellite-images)
 
 
 #### Some results
