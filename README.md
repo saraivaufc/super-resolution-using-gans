@@ -1,6 +1,5 @@
 ![super-resolution-using-gan](./docs/images/main.png)
 
-
 [Open in Kaggle](https://www.kaggle.com/code/saraivaufc/super-resolution-using-gans-and-satellite-images)
 
 
